@@ -1,0 +1,9 @@
+d183fd582b0fa3c45ecb2c97996cf377 *DESCRIPTION
+da846df1d5e8676dc54ee1aa016ecc3c *NAMESPACE
+b35e535d08e40312ff0b0f38f3f6a6db *NEWS.md
+2872e511de25333e5e7db142b923d162 *R/fs_mate_finder.R
+67d4d1900c34cdd8809389b1a192ac03 *R/pedSimulate.R
+c7f60433b14864db083bdf8d4eea6ecb *R/pp_mate_finder.R
+025d070d319b429075a6b08089872194 *R/simulatePed.R
+086b3b8e61442b3326c0cff4f66d4983 *man/pedSimulte-package.Rd
+b21dc5e179ac98733133541f5bcde8d2 *man/simulatePed.Rd
