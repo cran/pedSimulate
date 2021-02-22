@@ -1,11 +1,11 @@
-613717b8484c6be830dbcf28c1a2a737 *DESCRIPTION
+0a3b27336acfa94eef6fe2b82844b395 *DESCRIPTION
 83668603845855adf0b314c2c6736dbe *NAMESPACE
-707ca614e2155830a1d4db267231ea96 *NEWS.md
+19b0a36e037975725053d0033f7c0435 *NEWS.md
 c1dd4ce50a3c9909fd2558c124ba72a0 *R/assortative.R
 871d648ee87338a5ad820c70e64daa6b *R/fs_mate_finder.R
 31dd9296f7532976a7f5032f4deef778 *R/pedSimulate.R
 921a8dfa9a734e49060e3c985fa101fc *R/pp_mate_finder.R
-43cc7db8b751c019d0a85c9e6853e525 *R/simulatePed.R
+4546ccfbdb1c760da3e297b7ed5b6d38 *R/simulatePed.R
 30b22f21e4ba5f094f16b5ccb139fe48 *man/assortative.Rd
 b9d748fe213cd8f0f54948fc9b99c7ac *man/pedSimulte-package.Rd
 08674732e752135ac55e088cf1a92c6d *man/simulatePed.Rd
