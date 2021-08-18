@@ -1,12 +1,12 @@
-f28c4c9838379d9e4e54f54ae8f1159e *DESCRIPTION
+80a19d9fcd98dac30d4f3fc719858384 *DESCRIPTION
 9c3c008057517778eed3bd0c0de84469 *NAMESPACE
-d9e3fa09a9fb5fe1d17a8e2133ec9cc1 *NEWS.md
-a3b28f0b72ec79e0f4e83513723fe3c2 *R/appendPed.R
+e5fe209848f952c56fab7c98cfa60783 *NEWS.md
+4b34516d72792175e14c8184fe4f949e *R/appendPed.R
 5814fcd3056cedebad781d07d7e65b7d *R/fs_mate_finder.R
 5a6296f92d0ebbdc2b3b1c75fa5ab80f *R/hs_mate_finder.R
 097b061546563778a7c77fe6b5f31b62 *R/pedSimulate.R
 22e8abfde6ce0d1563af530b0ec322cb *R/pp_mate_finder.R
-4754247acbfbb15205e8f2b6f51d31fc *R/simulatePed.R
+a1338821c274c36f51b909d59d976492 *R/simulatePed.R
 3e4ebcd60c8f5abf6b3b86d6f35f6419 *man/appendPed.Rd
 5b0ca48f999b99f20e9ee5625cf652de *man/fs_mate_finder.Rd
 b223c365131091580e69b855b64e3257 *man/hs_mate_finder.Rd
