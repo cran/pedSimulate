@@ -1,8 +1,8 @@
-7e9dcaffe1b53b02c775b07247c19b6c *DESCRIPTION
+298af25ba2eaa07cbff184c8e362ed80 *DESCRIPTION
 6333bc5710239ae6df0427fc52b51a79 *NAMESPACE
-2cb06e6bfcc836a1f29e89d99ca2e8d1 *NEWS.md
+09e3d9255c0da948d0f048817ce4d420 *NEWS.md
 7ddf54c89fa78b00e8fdc6ba05a9491e *R/appendGen.R
-94657d913b0a11d6964a0015c2e11954 *R/appendPed.R
+1c983f5abd8c65e0f709240c37262f01 *R/appendPed.R
 5814fcd3056cedebad781d07d7e65b7d *R/fs_mate_finder.R
 4be7cedc3a7775af14582a99865da6ba *R/hs_mate_finder.R
 4785d9fee0b160b164db6a138b488502 *R/makegamete.R
@@ -10,7 +10,7 @@
 2eaac6147a316c5b743ac6e3bc8893ec *R/pedSimulate.R
 22e8abfde6ce0d1563af530b0ec322cb *R/pp_mate_finder.R
 e88870cfb385814b7131d3c3824f3763 *R/simulateGen.R
-8a604cd3dc17e311e0bcb03ef28a25a0 *R/simulatePed.R
+ac5e1af700c9e21d58362e154b998790 *R/simulatePed.R
 9f1eb08e3b97bafcc87d0466a875ed07 *man/appendGen.Rd
 5d3cc62e70fde9b43d288e62f3945b8b *man/appendPed.Rd
 5b0ca48f999b99f20e9ee5625cf652de *man/fs_mate_finder.Rd
